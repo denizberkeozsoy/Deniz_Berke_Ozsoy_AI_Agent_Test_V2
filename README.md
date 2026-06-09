@@ -88,9 +88,9 @@ Final Turkish Answer
 
 The project supports either naming convention:
 
-- `holidays_2.xlsx` or `holidays.xlsx`
-- `vehicles_2.xlsx` or `vehicles.xlsx`
-- `weather_2.xlsx` or `weather.xlsx`
+- `holidays.xlsx`
+- `vehicles.xlsx`
+- `weather.xlsx`
 
 ## How to Run
 
