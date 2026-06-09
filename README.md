@@ -6,7 +6,7 @@ This project is done accordingly to the requirements of AI_Agent_Test_V2
 
 ## Persistent Google Drive Location
 ## The folder should be uploaded to Drive and run with the Google Colab without changing name and file structure 
-## You should inject your secret keys to Google Colab as a secret with using key icon (due to privacy considerations personal my API keys did not provided)
+## You should inject your secret keys to Google Colab as a secret with using key icon (due to privacy considerations my personal API keys did not provided)
 
 All generated files and related outputs are stored under:
 
