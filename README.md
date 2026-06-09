@@ -86,7 +86,7 @@ Final Turkish Answer
 
 ## Required Excel Files
 
-The project supports either naming convention:
+The project supports the following naming convention:
 
 - `holidays.xlsx`
 - `vehicles.xlsx`
